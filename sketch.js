@@ -5,9 +5,8 @@
 // Extra for Experts:
 // - describe what you did to take this project "above and beyond"
 
-
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(400, 400);
 }
 
 function draw() {
